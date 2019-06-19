@@ -1,5 +1,5 @@
 ---
-title: CSPB Design Principles
+title: CFPB Design Principles
 author: Consumer Financial Protection Bureau
 overview:
 link: https://cfpb.github.io/design-manual/best-practices/design-principles.html
